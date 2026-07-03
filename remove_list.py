@@ -29,3 +29,9 @@ print(fruits)
 
 
 # Output:-
+# ['Apple', 'Goa', 'Broccoli', 'Grapes', 'Carrot', 'Orange', 'Blackberry', 'Dragon fruit']
+# ['Apple', 'Goa', 'Grapes', 'Carrot', 'Orange', 'Blackberry', 'Dragon fruit']
+# ['Apple', 'Goa', 'Carrot', 'Orange', 'Blackberry', 'Dragon fruit']
+# ['Apple', 'Goa', 'Carrot', 'Orange', 'Blackberry']
+# ['Apple', 'Carrot', 'Orange', 'Blackberry']
+# []
